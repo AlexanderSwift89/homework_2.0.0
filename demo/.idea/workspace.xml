@@ -15,7 +15,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1aqT4utUbe1Ai9058TUqU5uCUuL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -88,9 +88,16 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="191" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589273414287" />
+<<<<<<< HEAD
     <state x="186" y="10" key="SettingsEditor" timestamp="1589311279218">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589311279218" />
+=======
+    <state x="186" y="10" key="SettingsEditor" timestamp="1589311093619">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589311093619" />
+>>>>>>> feature/payment
   </component>
 </project>
